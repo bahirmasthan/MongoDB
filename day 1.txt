@@ -1,0 +1,7 @@
+
+1)db.Tourism.insert({place:"ooty",Day:"1",place:'Rose Garden'})
+2)db.Tourism.insert({place:"ooty",Day:'1',Hours:2,place:'Boat House'}) ;
+3)db.Tourism.insert({place:"ooty",place:'Museum'}) ;
+4)db.Tourism.insert({place:"ooty",place:'pykara',hours:'4',day:'2',parking:'Yes'}) ;
+
+5)db.Tourism.insert({city:'Chennai',place:'Marina',Hours:4,parking:'Yes'})
